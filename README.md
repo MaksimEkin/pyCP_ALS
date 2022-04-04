@@ -66,7 +66,7 @@ If you use pyCP_ALS, please cite it.
 ```latex
 @MISC{Eren2022pyCP_ALS,
   author = {M. E. {Eren}},
-  title = {pyCP_ALS},
+  title = {{pyCP_ALS}},
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
