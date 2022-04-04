@@ -22,7 +22,7 @@ setup(
     platforms = ["Linux", "Mac", "Windows"],
     include_package_data=True,
     setup_requires=[
-        'numpy==1.21', 'tqdm', 'sparse', 'scipy'
+        'numpy==1.19.2', 'tqdm', 'sparse', 'scipy'
     ],
     url='https://github.com/MaksimEkin/pyCP_ALS',
     packages=find_packages(),
