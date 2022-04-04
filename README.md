@@ -74,6 +74,9 @@ If you use pyCP_ALS, please cite it.
 }
 ```
 
+## Acknowledgments
+This work was done as part of Maksim E. Eren's Master's Thesis at the University of Maryland, Baltimore County with the thesis committee members and collaborators Charles Nicholas, Edward Raff, Roberto Yus, Boian S. Alexandrov, and Juston S. Moore. **pyCP_ALS** was written as part of the [RFoT](https://github.com/MaksimEkin/RFoT) methodology.
+
 ## Developer Test Suite
 Developer test suites are located under [```tests/```](tests/) directory. Tests can be ran from this folder using ```python -m unittest *```.
 
